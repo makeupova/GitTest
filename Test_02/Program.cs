@@ -7,6 +7,7 @@ namespace Test_02
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Изменение 01");
 
             Console.ReadKey();
         }
